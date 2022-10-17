@@ -1,6 +1,6 @@
 package oop.parcial2.shapes;
 
-public class Circle extends Shape{
+public class Circle extends Shape {
     private int radio;
 
     public Circle(int radio) {

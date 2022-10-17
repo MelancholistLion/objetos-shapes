@@ -1,7 +1,9 @@
-import oop.parcial2.shapes.*;
+package oop.parcial2;
 
 import java.util.LinkedList;
 import java.util.List;
+
+import oop.parcial2.shapes.*;
 
 public class Main {
 
